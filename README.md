@@ -18,7 +18,7 @@ The following instructions will allow you to get a working copy of the project o
 * [java](https://www.oracle.com/java/technologies/downloads/#java22) - Programming Language
 * [Node JS](https://nodejs.org/en/download/source-code) - Open source server environment
 * [Docker](https://www.docker.com) - Docker provides a suite of development tools, services, trusted content, and automations, used individually or together, to accelerate the delivery of secure applications.
-* 
+
 ### Requirements:
 
 #### ⚠️ Important
@@ -156,10 +156,12 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) for 
 
 ## Acknowledgements
 
-- OktaDev YouTube channel: https://www.youtube.com/watch?v=8v2m2eoKVnM
+- Pro Ciencia YouTube channel: [https://www.youtube.com/watch?v=8v2m2eoKVnM](https://www.youtube.com/watch?v=fZQOy5SucXw&t=1051s)
+- Dimas Arki YouTube channel: [https://www.youtube.com/watch?v=X2zLbKimvQQ](https://www.youtube.com/watch?v=X2zLbKimvQQ)
 - SpringBoot Documentation: https://docs.spring.io/spring-data/redis/reference/redis/redis-cache.html
-- Vue.Js Documentation: https://vuejs.org/guide/introduction.html
-- Redis Documentation: https://redis.io/docs/latest/operate/oss_and_stack/install/install-redis/install-redis-on-windows/
+- React Documentation: [https://vuejs.org/guide/introduction.html](https://react.dev/learn/react-developer-tools)
+- SpringBoot SMTP: [https://www.baeldung.com/spring-email](https://www.baeldung.com/spring-email)
+
 
 
 
